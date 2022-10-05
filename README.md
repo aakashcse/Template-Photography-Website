@@ -1,4 +1,4 @@
-# Template-Photography-Website-
+# Template-Photography-Website
 # username: admin
 # password: admin123
 
